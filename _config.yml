@@ -23,7 +23,7 @@ repository               : "ranjitha-g-engg/ranjitha-g-engg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ranjithaimg.png"
   name             : "Ranjitha G"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision & ML Engineer with expertise in multi-modal AI for aerospace defect detection"
